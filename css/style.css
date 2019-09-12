@@ -1130,9 +1130,9 @@ textarea:focus {
     .box-primary-nav {
         padding: 80px 0 0;
     }
-    /*.box-primary-nav .box-social a {
-        font-size: 23pxh;
-    }*/
+    .box-primary-nav .box-social a {
+        font-size: 23px;
+    }
     .top-bar h1 {
         font-size: 40px;
         line-height: 30px;
