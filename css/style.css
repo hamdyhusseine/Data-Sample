@@ -385,7 +385,7 @@ h5 {
 }
 
 .box-primary-nav .box-social {
-    display: inline;
+    display: flex;
     margin: 10px .4em;
 }
 
